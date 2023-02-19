@@ -1,8 +1,14 @@
 ---
 title: "TNG S02E10 - The Dauphin"
 date: 2021-03-01
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 Ah, to be young and falling in love with an alien... This is a Wesley episode where he falls in love with a shapshifting alien.

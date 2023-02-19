@@ -1,8 +1,14 @@
 ---
 title: "Rewatching TNG S02E17 - Samaritan Snare"
 date: 2021-03-14
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 What an episode, following the Borg, the enterprise meets a ship of stupid people that you have to wonder that they ever got into space in the first place. We meet the Pakled - a race that still needs to evolve intelligence. So they just steal from the smart people.

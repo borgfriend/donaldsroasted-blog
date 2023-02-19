@@ -1,9 +1,14 @@
 ---
 title: "TNG S02E01 - The Child"
 date: 2021-02-17
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 Season 2 starts with a lot of changes. However it is an episode you can skip.

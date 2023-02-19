@@ -1,13 +1,14 @@
 ---
 title: "TNG - S01E20: The Arsenal of Freedom"
 date: 2021-02-09
-categories:
-  - "blog"
-tags:
-  - "exercise"
-  - "sttng"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
   - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 The Enterprise encounters its first advertisement. They are selling weapons to ensure freedom… sounds too good to be true. The planet has superior sales tactics as well and sends a sample of their product. Semi-Intelligent, learning, and self upgrading Drones that attack the away team and the enterprise, and both get almost defeated. Until Picard just agrees to buy the weapons system and everything is cool. Sales Quota met.

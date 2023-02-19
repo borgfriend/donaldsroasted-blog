@@ -1,9 +1,14 @@
 ---
 title: "TNG S01E25 - The Neutral Zone"
 date: 2021-02-15
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 The enterprise discovers space debris, while initially not interesting they find three people cryogenically frozen.

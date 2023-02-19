@@ -1,8 +1,14 @@
 ---
 title: "TNG S02E09 - Measure of a Man"
 date: 2021-03-01
-categories:
-  - "blog"
+categories: 
+  - "series"
+tags: 
+  - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 It is one of the finest episodes of TNG. I really do not want to spoil anything. It is a court case about Data, if he is property or not.

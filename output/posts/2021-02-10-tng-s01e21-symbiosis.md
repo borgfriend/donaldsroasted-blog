@@ -1,12 +1,14 @@
 ---
 title: "TNG - S01E21: Symbiosis"
 date: 2021-02-10
-categories:
-  - "blog"
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
   - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 A freighter is about to crash. The enterprise tries to rescue them but they beam over their cargo first and then themselves. What can be more important than their own lives?

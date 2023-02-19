@@ -1,8 +1,14 @@
 ---
 title: "TNG S01E09 - Hide and Q"
 date: 2021-01-25
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 Phenomenal Cosmic powers and a weak preachy episode. This episode could have had a lot going on for it. Q comes to a visit and gives Riker a taste of his powers, he is given the power of Q.

@@ -1,8 +1,14 @@
 ---
 title: "TNG S02E08 - A Matter of Honor"
 date: 2021-02-25
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 This episode is just brilliant. An officer exchange program - where we learn about the benzine culture and a lot about Klingon culture. This episode sets the foundation of future Klingon episodes exploring their culture.

@@ -1,9 +1,14 @@
 ---
 title: "The Shorter Trek TNG Season 1: Watch list"
 date: 2021-02-17
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 The first season of The Next Generation is strange. The show needed to find itself. However it also has a couple of masterpiece episodes you should not miss.

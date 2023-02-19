@@ -1,8 +1,14 @@
 ---
 title: "TNG S02E11 - Contagion"
 date: 2021-03-03
-categories:
-  - "blog"
+categories: 
+  - "series"
+tags: 
+  - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 What an episode, we get started by the destruction of a Galaxy class ship, Romulans are nearby, and a mysterious ancient artifact from a lost but advanced society.

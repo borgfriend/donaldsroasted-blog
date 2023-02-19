@@ -1,9 +1,14 @@
 ---
 title: "TNG S01E16 - When the Bough Breaks"
 date: 2021-02-04
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 The episodes are getting better. However this episode is basically “We do not sell children” – “Ok we take them” – “Here is a potion for radiation poisoning” – ” Ok, you can have them back”

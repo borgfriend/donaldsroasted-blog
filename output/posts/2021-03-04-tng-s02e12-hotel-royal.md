@@ -1,8 +1,14 @@
 ---
 title: "TNG S02E12 - Hotel Royal"
 date: 2021-03-04
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 One of the wonderful abstract episodes. It is a beautiful fantasy what could happen when we first meet aliens. The aliens do not understand humans, they take our fantasy worlds in our books and believe this was the reality we lived in. The concept is revisited in "DS9 - If wishes were horses".

@@ -1,9 +1,14 @@
 ---
 title: "TNG S01E22: Skin of Evil"
 date: 2021-02-11
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 Well, this is the episode that Tasha dies. The sad part of the episode is that we really never got to know who Tasha is. The tar monster just kills her for no reason - however, she does get a nice funeral.

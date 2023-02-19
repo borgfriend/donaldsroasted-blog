@@ -1,9 +1,14 @@
 ---
 title: "TNG S02E04 - The Outrageous Okona"
 date: 2021-02-20
-tags:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
   - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 Star Wars meets Star trek. We get to meet Okona, a rogue like character, flying around with an old ship. And what a guy, he manages to seduce 3 women in like half a day.

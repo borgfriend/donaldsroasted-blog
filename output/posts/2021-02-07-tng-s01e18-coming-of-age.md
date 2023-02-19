@@ -1,12 +1,14 @@
 ---
 title: "TNG S01E18: Coming of Age"
 date: 2021-02-07
-categories:
-  - "blog"
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
   - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 This episode takes a look at how to deal with success and failure.

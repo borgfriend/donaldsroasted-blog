@@ -1,9 +1,14 @@
 ---
 title: "TNG S01E24: Conspiracy"
 date: 2021-02-14
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 This is the dark, scary, sci-fi-horror episode of season 1. Aliens have infiltrated the federation. A parasite has taken over Admirals and Commanders. It is the classic brain parasite, that takes over your body, makes it stronger, and feeds off of you.

@@ -1,9 +1,14 @@
 ---
 title: "TNG S01E23: We will always have Paris"
 date: 2021-02-13
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 I guess this is a romantic episode? We get to see Picard encounter his fiancee he dumped to go to starfleet. Besides that some Dimensional TIme thing that is solved by data...

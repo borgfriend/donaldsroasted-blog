@@ -1,9 +1,14 @@
 ---
 title: "TNG S01E17: Home Soil"
 date: 2021-02-06
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 The Next Generation is finding itself. All actors are starting to become the beloved characters we know today.

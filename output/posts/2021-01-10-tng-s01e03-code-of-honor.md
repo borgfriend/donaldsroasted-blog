@@ -1,8 +1,14 @@
 ---
 title: "TNG S01E03 - Code of Honor"
 date: 2021-01-10
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 TNG had a very difficult start. This is one of the worst episode of TNG.

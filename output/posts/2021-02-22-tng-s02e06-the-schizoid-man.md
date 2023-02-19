@@ -1,8 +1,14 @@
 ---
 title: "TNG S02E06 - The Schizoid Man"
 date: 2021-02-22
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 Ah, the dream of immortality - A scientist puts his mind into the body of data... but in the end has to discover that immortality is not for him.  

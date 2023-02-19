@@ -1,8 +1,14 @@
 ---
 title: "TNG S02E15 - The Icarus Factor"
 date: 2021-03-09
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 I don't know about this one... for Riker it would have been better if this episode would not exist. Riker is offered his own command... and he never gives any real reason why he did not accept it. From now on you will always ask yourself what is he still doing on the enterprise. Rikers personality and ambitions would demand that he gets his own ship. But well he turned it down to hang out with his friends...

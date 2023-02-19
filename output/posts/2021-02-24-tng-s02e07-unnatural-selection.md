@@ -1,8 +1,14 @@
 ---
-title: "TNG S02E07 -Unnatural Selection"
+title: "TNG S02E07 - Unnatural Selection"
 date: 2021-02-24
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 This episode is the first where we really get to know Dr. Polaski and her ambitions and drive to help other people. She is in many ways similar to Picard - thus they don't always see eye to eye. At the end of the episode they have a deeper understanding and respect for eachother.

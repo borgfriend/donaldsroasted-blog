@@ -1,8 +1,14 @@
 ---
 title: "Rewatching TNG: S02E21 - Peak Performance"
 date: 2021-04-28
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 A brilliant episode, where everyone shines, works together and are truly at their 'peak performance'.

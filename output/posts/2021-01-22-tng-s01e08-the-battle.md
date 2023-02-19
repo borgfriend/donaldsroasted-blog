@@ -1,8 +1,14 @@
 ---
 title: "TNG S01E08 - The Battle"
 date: 2021-01-22
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 Beware of Ferengis bearing gifts.

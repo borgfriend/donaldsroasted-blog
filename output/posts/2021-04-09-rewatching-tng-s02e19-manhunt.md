@@ -1,8 +1,14 @@
 ---
 title: "Rewatching TNG: S02E19 - Manhunt"
 date: 2021-04-09
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 This is a weird episode. Lwaxana Troi comes for a visit and tries to seduce Captain Picard. She apparently is in a phase where she has an extreme sex drive and is looking for another man. The entire episode is Picard avoiding her advances.

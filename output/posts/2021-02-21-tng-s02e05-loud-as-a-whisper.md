@@ -1,9 +1,14 @@
 ---
 title: "TNG S02E05 - Loud as a Whisper"
 date: 2021-02-21
-tags:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
   - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 The episode highlights and embraces the unique skills and competencies that people with disabilities can bring to society. Reva is deaf - so he has a choir of three people that communicate with him telepathically. During a peace talk, the choir gets killed and he has to accept and embrace his disability.

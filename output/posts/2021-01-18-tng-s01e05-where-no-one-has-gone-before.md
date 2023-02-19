@@ -1,8 +1,14 @@
 ---
 title: "TNG S01E05 - Where No One Has Gone Before"
 date: 2021-01-18
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 This is probably the best episode of Season 1.

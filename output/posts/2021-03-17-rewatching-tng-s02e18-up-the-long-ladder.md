@@ -1,8 +1,14 @@
 ---
 title: "Rewatching TNG S02E18 - Up the Long Ladder."
 date: 2021-03-17
-categories:
-  - "blog"
+categories: 
+  - "series"
+tags: 
+  - "star-trek"
+  - "tng"
+  - "tng season 2"
+image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
+authors: ["HappyNeal"]
 ---
 
 We have a classical SciFi setup, a couple of people believe 'technology is evil' so they decide to leave technology behind them and start a new life on a new planet without all of the modern tech that is ruining us. In this case the people hitched a ride with people that thought technology would be the solution to all problems. They ended up on two different planets.

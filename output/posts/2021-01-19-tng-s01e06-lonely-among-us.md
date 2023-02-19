@@ -1,8 +1,14 @@
 ---
 title: "TNG S01E06 - Lonely among us"
 date: 2021-01-19
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 While overall the episode is rather meh, it does something quite small that will have long lasting effects.

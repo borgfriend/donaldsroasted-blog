@@ -1,8 +1,14 @@
 ---
 title: "TNG S01E04 - The Last Outpost"
 date: 2021-01-12
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 Rating: A one-time watchable episode, mostly for historic significance that this is the first appearance of the Ferengi.

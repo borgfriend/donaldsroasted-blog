@@ -1,9 +1,14 @@
 ---
 title: "TNG S01E15 - Too Short a Season"
 date: 2021-02-03
-tags:
-  - "exercise"
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 1"
+image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
+authors: ["HappyNeal"]
 ---
 
 Well and again we are at the bottom of the barrel... A corrupt crazy Admiral that takes a youth potion to try to fix a mistake he did 45years ago... The episode is a drag, and has a lot of filler scenes to make the episode longer.
