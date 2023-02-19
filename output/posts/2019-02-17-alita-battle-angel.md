@@ -1,6 +1,6 @@
 ---
 title: "Alita - Battle Angel"
-date: "2019-02-17"
+date: 2019-02-17
 ---
 
 Alita is based on a Japanese Manga and was in production for 16 years. James Cameron was involved.

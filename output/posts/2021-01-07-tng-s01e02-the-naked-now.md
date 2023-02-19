@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E02 - The Naked Now"
-date: "2021-01-07"
-categories: 
+date: 2021-01-07
+categories:
   - "star-trek"
 ---
 

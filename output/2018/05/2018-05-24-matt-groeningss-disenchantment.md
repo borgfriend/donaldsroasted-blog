@@ -1,7 +1,7 @@
 ---
 title: "Matt Groenings's Disenchantment"
-date: "2018-05-24"
-categories: 
+date: 2018-05-24
+categories:
   - "blog"
 coverImage: "2018-05-24-matt-groenings-s-disenchantment.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S03E02: The Ensigns of Command"
-date: "2021-05-20"
-categories: 
+date: 2021-05-20
+categories:
   - "star-trek"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Starlog: Core Star Trek Technologies"
-date: "2019-04-24"
-tags: 
+date: 2019-04-24
+tags:
   - "essay"
   - "star-trek"
 ---

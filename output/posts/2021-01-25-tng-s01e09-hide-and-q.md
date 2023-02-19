@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E09 - Hide and Q"
-date: "2021-01-25"
-categories: 
+date: 2021-01-25
+categories:
   - "star-trek"
 ---
 

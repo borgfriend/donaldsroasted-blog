@@ -1,7 +1,7 @@
 ---
 title: "Moonlighter"
-date: "2019-08-17"
-categories: 
+date: 2019-08-17
+categories:
   - "games"
 ---
 

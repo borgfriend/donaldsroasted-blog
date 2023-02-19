@@ -1,7 +1,7 @@
 ---
 title: "Notes on Star Trek: Lower Decks S02E01 - Strange Energies"
-date: "2021-08-18"
-tags: 
+date: 2021-08-18
+tags:
   - "lower-decks"
   - "star-trek"
 ---

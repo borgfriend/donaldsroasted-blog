@@ -1,7 +1,7 @@
 ---
 title: "Magicka - How the game got delayed"
-date: "2016-02-18"
-categories: 
+date: 2016-02-18
+categories:
   - "games"
   - "youtube"
 coverImage: "2015-12-25-magicka.jpg"

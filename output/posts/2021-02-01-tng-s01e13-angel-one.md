@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E13 - Angel One"
-date: "2021-02-01"
-categories: 
+date: 2021-02-01
+categories:
   - "star-trek"
 ---
 

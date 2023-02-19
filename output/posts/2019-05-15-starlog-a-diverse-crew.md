@@ -1,7 +1,7 @@
 ---
 title: "Starlog: A Diverse Crew"
-date: "2019-05-15"
-tags: 
+date: 2019-05-15
+tags:
   - "essay"
   - "star-trek"
 ---

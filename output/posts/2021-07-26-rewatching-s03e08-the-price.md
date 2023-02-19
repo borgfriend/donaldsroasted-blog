@@ -1,7 +1,7 @@
 ---
 title: "Rewatching S03E08 - The Price"
-date: "2021-07-26"
-categories: 
+date: 2021-07-26
+categories:
   - "star-trek"
 ---
 

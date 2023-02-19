@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S03E15 - Yesterdays Enterprise"
-date: "2021-08-11"
-categories: 
+date: 2021-08-11
+categories:
   - "star-trek"
 ---
 

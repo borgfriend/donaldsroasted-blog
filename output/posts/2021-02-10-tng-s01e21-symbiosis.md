@@ -1,9 +1,9 @@
 ---
 title: "TNG - S01E21: Symbiosis"
-date: "2021-02-10"
-categories: 
+date: 2021-02-10
+categories:
   - "blog"
-tags: 
+tags:
   - "exercise"
   - "star-trek"
   - "tng"

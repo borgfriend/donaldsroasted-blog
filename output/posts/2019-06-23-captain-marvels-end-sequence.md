@@ -1,7 +1,7 @@
 ---
 title: "Captain Marvels End Sequence"
-date: "2019-06-23"
-categories: 
+date: 2019-06-23
+categories:
   - "art"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S03E10 - The Defector"
-date: "2021-07-27"
-categories: 
+date: 2021-07-27
+categories:
   - "star-trek"
 ---
 

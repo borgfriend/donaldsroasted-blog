@@ -1,7 +1,7 @@
 ---
 title: "Rewatching S02E16 - Q Who"
-date: "2021-03-13"
-categories: 
+date: 2021-03-13
+categories:
   - "star-trek"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Key Points - Give and Take"
-date: "2021-02-10"
-categories: 
+date: 2021-02-10
+categories:
   - "books"
-tags: 
+tags:
   - "success"
 coverImage: "2016-06-13-pixar-piper-trailer.jpg"
 ---
@@ -29,7 +29,7 @@ However in order to be a good giver you have to consider
 - Otherish giving: You still help with no strings attached, you just don't overextend yourself.
 
 > There are two great forces of human nature: self-interest, and caring for others
-> 
+>
 > Bill Gates
 
 When concern for others is coupled with a healthy dose of concern for the self - givers are less prone to burning out and getting burned and are in the position to flourish.

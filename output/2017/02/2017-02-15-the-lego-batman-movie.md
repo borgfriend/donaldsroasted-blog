@@ -1,7 +1,7 @@
 ---
 title: "The Lego Batman Movie"
-date: "2017-02-15"
-categories: 
+date: 2017-02-15
+categories:
   - "movies"
 coverImage: "2017-02-15-the-lego-batman-movie.jpg"
 ---

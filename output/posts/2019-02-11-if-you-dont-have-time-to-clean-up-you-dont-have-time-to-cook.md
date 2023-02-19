@@ -1,12 +1,12 @@
 ---
 title: "If you don’t have time to clean up, you don’t have time to cook"
-date: "2019-02-11"
-categories: 
+date: 2019-02-11
+categories:
   - "blog"
 ---
 
 > If you don’t have time to clean up, you don’t have time to cook
-> 
+>
 > Seth Godin ([https://seths.blog/2018/12/if-you-dont-have-time-to-clean-up-you-dont-have-time-to-cook/](https://seths.blog/2018/12/if-you-dont-have-time-to-clean-up-you-dont-have-time-to-cook/))
 
 Over the last two months, I have been thinking about this sentence. I am rather fascinated that the sentence is so simple, true, and in a way so trivial that it borders on meaningless.

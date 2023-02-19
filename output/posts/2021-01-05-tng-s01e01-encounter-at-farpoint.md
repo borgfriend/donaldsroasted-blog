@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E01 - Encounter at Farpoint"
-date: "2021-01-05"
-categories: 
+date: 2021-01-05
+categories:
   - "star-trek"
 ---
 

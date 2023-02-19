@@ -1,7 +1,7 @@
 ---
 title: "Notes on 13-Week Self-Improvement"
-date: "2018-12-24"
-categories: 
+date: 2018-12-24
+categories:
   - "books"
 ---
 
@@ -70,7 +70,7 @@ Be intentional about your time.
 ### Wins
 
 > What good did I do today?
-> 
+>
 > Benjamin Franklin
 
 Brag about what great things you did today. Remember the positive moments of the day. => This improves your confidence.

@@ -1,7 +1,7 @@
 ---
-title: "Starlog - A look at the \"Caretaker\""
-date: "2019-04-14"
-tags: 
+title: 'Starlog - A look at the "Caretaker"'
+date: 2019-04-14
+tags:
   - "essay"
   - "stvoy"
   - "star-trek"

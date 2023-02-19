@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNGS03E14 - A Matter of Perspective"
-date: "2021-08-11"
-categories: 
+date: 2021-08-11
+categories:
   - "star-trek"
 ---
 

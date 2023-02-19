@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S03E16 - The Offspring"
-date: "2021-08-28"
-categories: 
+date: 2021-08-28
+categories:
   - "star-trek"
 ---
 

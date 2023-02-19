@@ -1,7 +1,7 @@
 ---
 title: "Trailers - October 2018"
-date: "2018-10-07"
-tags: 
+date: 2018-10-07
+tags:
   - "trailers"
 coverImage: "2018-10-06-trailersoctober.jpg"
 ---

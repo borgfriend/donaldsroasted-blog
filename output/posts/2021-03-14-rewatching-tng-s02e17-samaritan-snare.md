@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S02E17 - Samaritan Snare"
-date: "2021-03-14"
-categories: 
+date: 2021-03-14
+categories:
   - "star-trek"
 ---
 

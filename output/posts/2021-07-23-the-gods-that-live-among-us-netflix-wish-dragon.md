@@ -1,7 +1,7 @@
 ---
 title: "The Gods that live among us - Netflix: Wish Dragon"
-date: "2021-07-23"
-categories: 
+date: 2021-07-23
+categories:
   - "movies"
 ---
 

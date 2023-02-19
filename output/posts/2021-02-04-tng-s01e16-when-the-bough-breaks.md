@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E16 - When the Bough Breaks"
-date: "2021-02-04"
-tags: 
+date: 2021-02-04
+tags:
   - "exercise"
   - "star-trek"
 ---

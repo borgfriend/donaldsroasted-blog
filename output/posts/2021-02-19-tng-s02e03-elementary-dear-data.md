@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E03 - Elementary, Dear Data"
-date: "2021-02-19"
-categories: 
+date: 2021-02-19
+categories:
   - "star-trek"
 ---
 

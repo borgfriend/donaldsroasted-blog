@@ -1,11 +1,11 @@
 ---
 title: "Maximize your potential"
-date: "2018-12-16"
+date: 2018-12-16
 ---
 
 ## Cultivating your craft before your passion
 
-What you do does not matter - the traits that are associated with it which make you happy. Skill precedes passion. 
+What you do does not matter - the traits that are associated with it which make you happy. Skill precedes passion.
 
 > Don't follow your passion; cultivate it.
 
@@ -21,8 +21,8 @@ Employ your entrepreneurial Skills:
 4. Take intelligent risks. Take on side projects in nights and weekends. Apply for jobs that you are not fully qualified for.
 
 > The best way to predict the future is to create it.
-> 
-> Peter Druck  
+>
+> Peter Druck
 
 ## Making your own luck
 
@@ -52,8 +52,8 @@ Lucky people are willing to to things outside the usual experience. The are open
 
 ## Always be asking "what is next?"
 
-Without knowing and moving towards a goal you do not go anywhere. 
+Without knowing and moving towards a goal you do not go anywhere.
 
 > Luck is what happens when preparation meets opportunity
-> 
+>
 > Seneca

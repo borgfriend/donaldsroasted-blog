@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E23: We will always have Paris"
-date: "2021-02-13"
-tags: 
+date: 2021-02-13
+tags:
   - "exercise"
   - "star-trek"
 ---

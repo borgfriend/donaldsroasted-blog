@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E07 -Unnatural Selection"
-date: "2021-02-24"
-categories: 
+date: 2021-02-24
+categories:
   - "star-trek"
 ---
 

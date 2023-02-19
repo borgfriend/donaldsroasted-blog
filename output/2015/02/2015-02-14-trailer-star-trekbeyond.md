@@ -1,7 +1,7 @@
 ---
 title: "Trailer: Star Trek:Beyond"
-date: "2015-02-14"
-categories: 
+date: 2015-02-14
+categories:
   - "trailers"
 coverImage: "2015-02-14-trailer-startrek-beyond.jpg"
 ---

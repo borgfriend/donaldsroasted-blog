@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG: S02E21 - Peak Performance"
-date: "2021-04-28"
-categories: 
+date: 2021-04-28
+categories:
   - "star-trek"
 ---
 
@@ -12,7 +12,7 @@ The game is simple, Riker gets an old ship and should engage the Enterprise in c
 Before the game, Data is defeated by the alien in a board game and is having a crisis if he is malfunctioning.
 
 > Sometimes you can do everything right and still lose - that is life
-> 
+>
 > Picard
 
 Picard has to build up his confidence again. Even Polaski and Troi have a couple of good likeable scenes.

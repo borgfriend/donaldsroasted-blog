@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E06 - Lonely among us"
-date: "2021-01-19"
-categories: 
+date: 2021-01-19
+categories:
   - "star-trek"
 ---
 

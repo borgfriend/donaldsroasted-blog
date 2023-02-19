@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E11 - The Big Goodbye"
-date: "2021-01-30"
-categories: 
+date: 2021-01-30
+categories:
   - "star-trek"
 ---
 

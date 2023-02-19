@@ -1,13 +1,13 @@
 ---
 title: "Hype for Movies 2019"
-date: "2018-12-02"
+date: 2018-12-02
 ---
 
 ## December 20th - Bumblebee
 
 https://www.youtube.com/watch?v=fAIX12F6958
 
-It looks promising - but it is a Transformers movie...  
+It looks promising - but it is a Transformers movie...
 
 ## January 24th - Wreck it Ralph 2
 
@@ -19,13 +19,13 @@ Why to be hyped? - It looks so bad it must be good...
 
 https://www.youtube.com/watch?v=CQ7XUCQ6pbE
 
-The conclusion of a unneeded trilogy... you will watch it just to complete the series... 
+The conclusion of a unneeded trilogy... you will watch it just to complete the series...
 
 ## February 7th - The Lego Movie 2
 
 https://www.youtube.com/watch?v=cksYkEzUa7k
 
-Nobody expected anything from the first... lets see if it can live up to the hype of the second...  
+Nobody expected anything from the first... lets see if it can live up to the hype of the second...
 
 ## February 12th - Alita Battle Angel
 

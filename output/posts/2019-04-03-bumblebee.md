@@ -1,7 +1,7 @@
 ---
 title: "Bumblebee (2018)"
-date: "2019-04-03"
-categories: 
+date: 2019-04-03
+categories:
   - "movies"
 ---
 

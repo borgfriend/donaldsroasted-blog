@@ -1,7 +1,7 @@
 ---
 title: "Rewatching S03E04 - Who watches the watchers"
-date: "2021-07-16"
-categories: 
+date: 2021-07-16
+categories:
   - "star-trek"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "TNG - S01EP19: Heart of Glory"
-date: "2021-02-08"
-categories: 
+date: 2021-02-08
+categories:
   - "blog"
-tags: 
+tags:
   - "exercise"
   - "star-trek"
   - "tng"

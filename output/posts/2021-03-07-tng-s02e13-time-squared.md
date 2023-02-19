@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E13 - Time Squared"
-date: "2021-03-07"
-categories: 
+date: 2021-03-07
+categories:
   - "star-trek"
 ---
 

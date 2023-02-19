@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E08 - A Matter of Honor"
-date: "2021-02-25"
-categories: 
+date: 2021-02-25
+categories:
   - "star-trek"
 ---
 

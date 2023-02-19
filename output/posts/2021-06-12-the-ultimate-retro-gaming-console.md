@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Retro Gaming Console"
-date: "2021-06-12"
-categories: 
+date: 2021-06-12
+categories:
   - "games"
 ---
 

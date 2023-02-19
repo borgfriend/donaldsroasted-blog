@@ -1,7 +1,7 @@
 ---
 title: "Frost Punk"
-date: "2021-06-08"
-categories: 
+date: 2021-06-08
+categories:
   - "games"
 ---
 
@@ -16,7 +16,6 @@ The basic gameplay is simple:
 - manage resources (for construction, keeping the generator alive, keeping the people alive)
 - manage people (housing, medical, other) Your main task is to balance these two areas - Nothing special here.
 
-  
 However, the game does something brilliant. It adds a legal system - you have to pass laws that change which abilities you have. These laws are moral/ethical choices that will significantly impact your colony. Which buildings can be built, the satisfaction of your population.  
 Each choice has its tradeoff, major positive effects but also negative effects. For example, you can choose to become a pure faith-based colony - your population will never lose hope. The cost? exile the non-believers that they freeze to death in the cold.
 

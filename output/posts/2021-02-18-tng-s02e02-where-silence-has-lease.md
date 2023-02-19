@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E02 - Where Silence Has Lease"
-date: "2021-02-18"
-tags: 
+date: 2021-02-18
+tags:
   - "exercise"
   - "star-trek"
 ---

@@ -1,9 +1,9 @@
 ---
 title: "TNG - S01E20: The Arsenal of Freedom"
-date: "2021-02-09"
-categories: 
+date: 2021-02-09
+categories:
   - "blog"
-tags: 
+tags:
   - "exercise"
   - "sttng"
   - "star-trek"

@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E09 - Measure of a Man"
-date: "2021-03-01"
-categories: 
+date: 2021-03-01
+categories:
   - "blog"
 ---
 

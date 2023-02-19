@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S03E07 - The Enemy"
-date: "2021-07-26"
-categories: 
+date: 2021-07-26
+categories:
   - "star-trek"
 ---
 

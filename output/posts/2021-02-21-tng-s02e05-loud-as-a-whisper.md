@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E05 - Loud as a Whisper"
-date: "2021-02-21"
-tags: 
+date: 2021-02-21
+tags:
   - "star-trek"
   - "tng"
 ---

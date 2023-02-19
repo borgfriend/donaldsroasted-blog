@@ -1,7 +1,7 @@
 ---
 title: "Jedi Knight II: Jedi Outcast"
-date: "2017-02-17"
-categories: 
+date: 2017-02-17
+categories:
   - "games"
 coverImage: "2017-02-15-jedi-knight-ii-jedi-outcast.jpg"
 ---

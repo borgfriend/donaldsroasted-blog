@@ -1,7 +1,7 @@
 ---
 title: "99u - Manage your day-to-day"
-date: "2018-05-24"
-categories: 
+date: 2018-05-24
+categories:
   - "books"
 coverImage: "2018-05-24-99u-manage-your-day-to-day.jpg"
 ---
@@ -21,11 +21,8 @@ Hemingway wrote 500 words a day no matter what. Great creative achievements requ
 Prioritize your creative work first and then deal with the reactive work. Emails do not need to be answered immediately.
 
 - Use triggers. Basically stick to the same tools and surroundings and that that environment will then create your 'creative zone'. Use then something like getting your coffee and after that do always the exact same thing. (Basically connecting preexisting habits)
-    
 - Limit your todos to a single Post it Note to avoid TODO Creep and your motivation positive
-    
 - Record every commitment that you have
-    
 
 Have hard limits. Basically you define when you start and end your day.
 
@@ -83,21 +80,13 @@ If you have troubles with creativity usually something else is blocking it. Go a
 Going Professional is a journey.
 
 - Stage 1: Just sit down and work for an hour. Sounds easy, but is actually quite difficult.
-    
 - Stage 2: Repeat that single hour. Can we work again the next day? Can we stay with the task for the entire day? Can we keep going for a week? At this point we are not concerned about quality. What we are doing is learning.
-    
 - Stage 3: Is crossing the finish line. Actually ship something. Can we create something that can stand on its own two feet? We now are acquiring craft, experience and skill. And are now looking into things like quality. (It takes a lot of time to reach this stage)
-    
 - Stage 4: Repeat that success you had.
-    
 - Can you handle success?
-    
 - Can you resurrect after failure?
-    
 - Can you delegate?
-    
 - Can you work with others?
-    
 
 What is a professional?
 

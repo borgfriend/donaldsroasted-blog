@@ -1,7 +1,7 @@
 ---
 title: "Starlog: Historic Artifact - A Vulcan Hello"
-date: "2019-04-07"
-tags: 
+date: 2019-04-07
+tags:
   - "essay"
   - "star-trek"
 ---

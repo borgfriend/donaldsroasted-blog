@@ -1,7 +1,7 @@
 ---
 title: "Trailer: Shazam!"
-date: "2019-03-04"
-categories: 
+date: 2019-03-04
+categories:
   - "trailers"
 ---
 

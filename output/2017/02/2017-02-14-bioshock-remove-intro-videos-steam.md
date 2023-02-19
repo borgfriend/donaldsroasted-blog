@@ -1,9 +1,9 @@
 ---
 title: "Bioshock - Remove Intro Videos (Steam)"
-date: "2017-02-14"
-categories: 
+date: 2017-02-14
+categories:
   - "gaming"
-tags: 
+tags:
   - "bioshock"
   - "steam"
 ---

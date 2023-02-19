@@ -1,12 +1,12 @@
 ---
 title: "Starlog: Lightspeed ahead onto your TV Screen"
-date: "2019-04-06"
-tags: 
+date: 2019-04-06
+tags:
   - "essay"
   - "star-trek"
 ---
 
-**To what extent did the business model of network television enable _Star Trek: The Original Series_ to appeal to such a wide range of audiences? In ways did that same model constrain it?**
+**To what extent did the business model of network television enable *Star Trek: The Original Series* to appeal to such a wide range of audiences? In ways did that same model constrain it?**
 
 It is the nature of network television, that executives will always target the broad general audience. This of course is linked to business interests. It is easier to tell an Advertiser X% of the audience is going to be interested in your product as having to tell the advertiser - sorry we only target this fringe group. Thus shows are created to augment the advertisements.
 

@@ -1,7 +1,7 @@
 ---
 title: "Portal 2 Links"
-date: "2015-12-13"
-categories: 
+date: 2015-12-13
+categories:
   - "games"
   - "youtube"
 coverImage: "2015-02-14-aperture-science-investment-opportunity.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Bertie the Elephant"
-date: "2016-06-06"
-categories: 
+date: 2016-06-06
+categories:
   - "youtube"
 coverImage: "2016-06-06-bertie.jpg"
 ---

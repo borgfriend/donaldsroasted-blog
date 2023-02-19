@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E10 - The Dauphin"
-date: "2021-03-01"
-categories: 
+date: 2021-03-01
+categories:
   - "star-trek"
 ---
 

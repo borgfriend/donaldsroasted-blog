@@ -1,24 +1,24 @@
 ---
 title: "Paul Arden - It's not how good you are, it is how good you want to be"
-date: "2018-12-14"
-categories: 
+date: 2018-12-14
+categories:
   - "books"
-tags: 
+tags:
   - "book"
 ---
 
-Probably one of the best books ever created.  
+Probably one of the best books ever created.
 
 > "All successful people do not poses any greater education or skill - they wanted to be rich and powerful they had a vision they knew what and when they wanted to be - they had a **goal**."
-> 
+>
 > Paul Arden
 
 ## **Chapter 1: The Fundamentals**
 
-### "The world needs mediocrity and not excellence"  
+### "The world needs mediocrity and not excellence"
 
 - So why do we want to be excellent? You do not do it for the client, you do it for **yourself**.
-- "_All creative people need something to rebel against_" it gives their lives excitement and makes their clients life exciting. 
+- "_All creative people need something to rebel against_" it gives their lives excitement and makes their clients life exciting.
 - "you will become whoever you want to be - it is only a question of ambition."
 - "you can achieve the un-achievable. You need to aim beyond of that what you are capable of."
 - Make your vision of where you want to be a reality - disregard where your abilities end.
@@ -27,13 +27,13 @@ Probably one of the best books ever created.
 
 Conventional intelligence gives you jobs where you have to display past qualifications are more important. Than how to succeed in the future.
 
-Energy is 75% of the job - if you do not have it, be nice.  
+Energy is 75% of the job - if you do not have it, be nice.
 
 Do not seek praise, **seek criticism** - Frankly the only thing wrong with this statement is that you need to be a very confident person. However there is nothing wrong with becoming a very confident person.
 
 **Take responsibility for your actions**, do not invent reasons for why the project is failing > there are no excuses.
 
-### **Give away everything you know, and more will come back to you**  
+### **Give away everything you know, and more will come back to you**
 
 **Do not look for the next opportunity - the one you have is the opportunity**  
 you will never get a perfect client. Whatever you do do the best possible. At least you get the satisfaction that you did your best.  
@@ -80,8 +80,8 @@ Do not try to win awards. They will give them to you if your work is great.
 ## We are all in advertising - it is a part of life.
 
 > Success is going from failure to failure with no loss of enthusiasm
-> 
-> Winston Churchill  
+>
+> Winston Churchill
 
 The first thing to decide before you walk into any negotiations is what to do if the other fellow says no.
 

@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S03E11 - The Hunted"
-date: "2021-07-27"
-categories: 
+date: 2021-07-27
+categories:
   - "star-trek"
 ---
 

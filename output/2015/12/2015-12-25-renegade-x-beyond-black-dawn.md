@@ -1,7 +1,7 @@
 ---
 title: "Renegade X - Beyond Black Dawn"
-date: "2015-12-25"
-categories: 
+date: 2015-12-25
+categories:
   - "games"
 coverImage: "2015-12-25-renegadex.png"
 ---

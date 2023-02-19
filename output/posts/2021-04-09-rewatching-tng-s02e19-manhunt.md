@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG: S02E19 - Manhunt"
-date: "2021-04-09"
-categories: 
+date: 2021-04-09
+categories:
   - "star-trek"
 ---
 

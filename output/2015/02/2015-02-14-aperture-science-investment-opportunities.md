@@ -1,7 +1,7 @@
 ---
 title: "Aperture Science Investment Opportunities"
-date: "2015-02-14"
-categories: 
+date: 2015-02-14
+categories:
   - "youtube"
 coverImage: "2015-02-14-aperture-science-investment-opportunity.jpg"
 ---

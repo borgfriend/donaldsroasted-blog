@@ -1,12 +1,12 @@
 ---
 title: "Starlog: AI or the Singularity"
-date: "2019-04-24"
-tags: 
+date: 2019-04-24
+tags:
   - "essay"
   - "star-trek"
 ---
 
-**Where do you see Artificial Intelligence going? Will it be Data, The Doctor, or something new? Do we need to fear it, embrace it or something in between?** 
+**Where do you see Artificial Intelligence going? Will it be Data, The Doctor, or something new? Do we need to fear it, embrace it or something in between?**
 
 There is a difference between specialized AI, like The Doctor, and universal AI.
 

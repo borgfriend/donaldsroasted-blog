@@ -1,9 +1,9 @@
 ---
 title: "Starwars Anime Crossover"
-date: "2016-11-13"
-categories: 
+date: 2016-11-13
+categories:
   - "youtube"
-tags: 
+tags:
   - "anime"
   - "star-wars"
 coverImage: "2016-11-13-starwarsanime.jpg"

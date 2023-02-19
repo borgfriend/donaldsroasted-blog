@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E03 - Code of Honor"
-date: "2021-01-10"
-categories: 
+date: 2021-01-10
+categories:
   - "star-trek"
 ---
 

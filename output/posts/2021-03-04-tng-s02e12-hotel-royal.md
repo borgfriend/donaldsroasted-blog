@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E12 - Hotel Royal"
-date: "2021-03-04"
-categories: 
+date: 2021-03-04
+categories:
   - "star-trek"
 ---
 

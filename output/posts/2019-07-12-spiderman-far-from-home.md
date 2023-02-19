@@ -1,7 +1,7 @@
 ---
 title: "Spiderman: Far From Home"
-date: "2019-07-12"
-categories: 
+date: 2019-07-12
+categories:
   - "movies"
 ---
 

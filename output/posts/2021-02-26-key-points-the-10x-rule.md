@@ -1,14 +1,14 @@
 ---
 title: "Key Points - The 10x Rule"
-date: "2021-02-26"
-categories: 
+date: 2021-02-26
+categories:
   - "books"
 ---
 
 The 10x rule is a disciple - anyone can learn it and transform their lives. You do not need any special education, gift, or good fortune. It will ensure your success regardless of your situation. If you use the rule life will get easier and you will dream at higher levels than you thought were possible.  
 Now that reads like a bad get-rich-quick scheme. Let's see if there is anything useful in this book.
 
-You can get the book on [Amazon](https://amzn.to/2MQNvcA) _(Affiliate Link)_
+You can get the book on [Amazon](https://amzn.to/2MQNvcA) *(Affiliate Link)*
 
 ## What is the 10x Rule?
 

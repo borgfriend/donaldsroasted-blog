@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S03E05 - The Bonding"
-date: "2021-07-21"
-categories: 
+date: 2021-07-21
+categories:
   - "star-trek"
 ---
 

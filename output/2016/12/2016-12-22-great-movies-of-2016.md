@@ -1,7 +1,7 @@
 ---
 title: "Great Movies of 2016"
-date: "2016-12-22"
-categories: 
+date: 2016-12-22
+categories:
   - "movies"
 ---
 
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=frdj1zb9sMY
 
 Rouge One tries to play with a different style of star-wars movie and it is great. The pacing at the beginning is quite slow, which was nice and let you really enjoy the calm visuals, while at the end with the battle it gets a little chaotic.
 
-Ironically the most annoying part of the movie is, that it tries to remind you that it is star-wars. Oh look these two fellows from the bar, here is R2-D2. While at other times the movie blends so good you do not even notice (X-Wing Pilots are all from the original Star Wars, via re-purposed footage)  
+Ironically the most annoying part of the movie is, that it tries to remind you that it is star-wars. Oh look these two fellows from the bar, here is R2-D2. While at other times the movie blends so good you do not even notice (X-Wing Pilots are all from the original Star Wars, via re-purposed footage)
 
 And yes in the end there is "hope". New Star Wars stories in a galaxy far far away... hopefully somebody says: we do not need the old star wars nostalgia to make a decent movie, and we will finally see a movie without a death star, darth vader or blue milk.
 

@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E15 - Too Short a Season"
-date: "2021-02-03"
-tags: 
+date: 2021-02-03
+tags:
   - "exercise"
   - "star-trek"
 ---

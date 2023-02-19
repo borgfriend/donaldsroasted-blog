@@ -1,9 +1,9 @@
 ---
 title: "Super Mario Mods"
-date: "2015-12-07"
-categories: 
+date: 2015-12-07
+categories:
   - "games"
-tags: 
+tags:
   - "mods"
   - "super-mario"
 coverImage: "2015-12-25-supermariomods.jpg"

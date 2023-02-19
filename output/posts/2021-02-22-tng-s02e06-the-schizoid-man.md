@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E06 - The Schizoid Man"
-date: "2021-02-22"
-categories: 
+date: 2021-02-22
+categories:
   - "star-trek"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG: S02E22 - Shades of Gray"
-date: "2021-04-28"
-categories: 
+date: 2021-04-28
+categories:
   - "star-trek"
 ---
 

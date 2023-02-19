@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG: S03E01 - Evolution"
-date: "2021-05-01"
-categories: 
+date: 2021-05-01
+categories:
   - "star-trek"
 ---
 

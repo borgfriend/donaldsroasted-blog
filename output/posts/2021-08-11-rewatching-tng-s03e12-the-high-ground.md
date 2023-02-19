@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S03E12 - The High Ground"
-date: "2021-08-11"
-categories: 
+date: 2021-08-11
+categories:
   - "star-trek"
 ---
 

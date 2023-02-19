@@ -1,7 +1,7 @@
 ---
 title: "Jedi Knight: Jedi Academy"
-date: "2017-02-20"
-categories: 
+date: 2017-02-20
+categories:
   - "games"
 ---
 

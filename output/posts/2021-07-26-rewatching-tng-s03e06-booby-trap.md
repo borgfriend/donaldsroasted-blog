@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S03E06 - Booby Trap"
-date: "2021-07-26"
-categories: 
+date: 2021-07-26
+categories:
   - "star-trek"
 ---
 

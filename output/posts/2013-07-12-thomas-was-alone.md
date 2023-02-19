@@ -1,9 +1,9 @@
 ---
 title: "Thomas Was Alone"
-date: "2013-07-12"
-categories: 
+date: 2013-07-12
+categories:
   - "gaming"
-tags: 
+tags:
   - "artwork"
   - "jump-and-run"
   - "puzzler"

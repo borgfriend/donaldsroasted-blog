@@ -1,6 +1,6 @@
 ---
 title: "Rewatching TNG: S02E20 - The Emissary"
-date: "2021-04-27"
+date: 2021-04-27
 ---
 
 Well apparently we are continuing an exploration of mating techniques. This week we will take a look at Klingon culture. The premise is simple, an old sleeper warship is returning to attack the Federation. They are unaware that there is peace between the Federation and the Klingon Empire.

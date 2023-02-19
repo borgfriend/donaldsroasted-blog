@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E04 - The Last Outpost"
-date: "2021-01-12"
-categories: 
+date: 2021-01-12
+categories:
   - "star-trek"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Banksy - Girl with a Balloon"
-date: "2019-06-20"
-categories: 
+date: 2019-06-20
+categories:
   - "art"
   - "blog"
 ---

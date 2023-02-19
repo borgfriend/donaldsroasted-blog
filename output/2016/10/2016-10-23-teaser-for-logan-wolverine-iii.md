@@ -1,7 +1,7 @@
 ---
 title: "Teaser for Logan (Wolverine III)"
-date: "2016-10-23"
-categories: 
+date: 2016-10-23
+categories:
   - "movies"
 ---
 

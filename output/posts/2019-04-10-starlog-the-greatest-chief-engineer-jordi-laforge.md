@@ -1,7 +1,7 @@
 ---
 title: "Starlog: The greatest Chief Engineer - Jordi LaForge"
-date: "2019-04-10"
-tags: 
+date: 2019-04-10
+tags:
   - "essay"
   - "star-trek"
 ---

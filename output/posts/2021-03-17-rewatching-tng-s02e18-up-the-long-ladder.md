@@ -1,7 +1,7 @@
 ---
 title: "Rewatching TNG S02E18 - Up the Long Ladder."
-date: "2021-03-17"
-categories: 
+date: 2021-03-17
+categories:
   - "blog"
 ---
 

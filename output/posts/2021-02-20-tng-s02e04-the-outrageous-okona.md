@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E04 - The Outrageous Okona"
-date: "2021-02-20"
-tags: 
+date: 2021-02-20
+tags:
   - "star-trek"
   - "tng"
 ---

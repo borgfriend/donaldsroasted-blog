@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on New Marvel Logo 2016"
-date: "2016-08-26"
+date: 2016-08-26
 ---
 
 ![](images/maxresdefault.jpg)
@@ -13,7 +13,7 @@ In the last Dr. Strange Trailer, Marvel revealed to the wide public their new Lo
 
 First lets compare the two logos directly. In the old Marvel Logo there was a visual emphasis on the "Marvel" and the "studio" was visually not relevant, almost not visible. This caused the viewer to only associate the word "Marvel" with the product. When people would talk about the Movies they would say "did you see the latest **Marvel** movie", nobody would say did you see the latest **Marvel Studios** movie?"
 
-However in the new logo both elements have the same visual weight. Telling the viewer this movie is made by **Marvel Studios** instead of **Marvel.** 
+However in the new logo both elements have the same visual weight. Telling the viewer this movie is made by **Marvel Studios** instead of **Marvel.**
 
 # Marvel Cinematic Universe
 

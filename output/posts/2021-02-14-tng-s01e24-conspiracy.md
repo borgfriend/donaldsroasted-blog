@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E24: Conspiracy"
-date: "2021-02-14"
-tags: 
+date: 2021-02-14
+tags:
   - "exercise"
   - "star-trek"
 ---

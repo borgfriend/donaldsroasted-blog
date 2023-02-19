@@ -1,7 +1,7 @@
 ---
 title: "Star Trek Online (F2P)"
-date: "2015-12-10"
-categories: 
+date: 2015-12-10
+categories:
   - "games"
 coverImage: "2015-12-25-startrekonline.jpg"
 ---

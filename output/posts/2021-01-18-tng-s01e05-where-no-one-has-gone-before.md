@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E05 - Where No One Has Gone Before"
-date: "2021-01-18"
-categories: 
+date: 2021-01-18
+categories:
   - "star-trek"
 ---
 

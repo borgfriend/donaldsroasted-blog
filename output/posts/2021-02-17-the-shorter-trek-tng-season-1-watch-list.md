@@ -1,7 +1,7 @@
 ---
 title: "The Shorter Trek TNG Season 1: Watch list"
-date: "2021-02-17"
-tags: 
+date: 2021-02-17
+tags:
   - "exercise"
   - "star-trek"
 ---

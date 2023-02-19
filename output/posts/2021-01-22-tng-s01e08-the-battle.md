@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E08 - The Battle"
-date: "2021-01-22"
-categories: 
+date: 2021-01-22
+categories:
   - "star-trek"
 ---
 

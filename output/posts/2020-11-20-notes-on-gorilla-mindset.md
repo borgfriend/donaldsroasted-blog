@@ -1,9 +1,9 @@
 ---
 title: "Notes on Gorilla Mindset"
-date: "2020-11-20"
-categories: 
+date: 2020-11-20
+categories:
   - "books"
-tags: 
+tags:
   - "book"
   - "key-points"
   - "self-help"
@@ -19,7 +19,6 @@ Take responsibility and control of your life. With hard work and a vision, you c
 The book covers a wide range of subjects on how to take care of your body and your mind. It is a great summary of various aspects of your life that you can improve and that you can take control over instead of relying on your internal autopilot.  
 It is a great starting point, but for the various topics, there are better books that go into the subject matter a little deeper.
 
-  
 You can get the book on [Amazon](https://amzn.to/3n5d9qt) (Affiliate link)
 
 ## **Key Points to remember**
@@ -30,7 +29,8 @@ People tend to have negative self-thoughts. You should try to change it into a p
 You should ask yourself if your self-talk is representative of your own thoughts or if it is only imposed by the standards of other people. - Have your own standards.  
 Commit yourself to your own mantra and values.
 
-###   
+###
+
 **State of Mind**
 
 There are basically 4 different states of mind: Optimistic, Negative, In-between (meh), and Resourceful (you can do anything)  

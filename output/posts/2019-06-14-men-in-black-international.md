@@ -1,7 +1,7 @@
 ---
 title: "Men In Black: International"
-date: "2019-06-14"
-categories: 
+date: 2019-06-14
+categories:
   - "movies"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Paul Arden - Whatever you think - think the opposite"
-date: "2018-12-15"
-categories: 
+date: 2018-12-15
+categories:
   - "books"
 ---
 
@@ -28,8 +28,8 @@ I want
 - Safe decisions are dull predictable and lead to nowhere
 
 > Start making bad decisions and it will take you to a place where others only dream of being
-> 
-> Paul Arden  
+>
+> Paul Arden
 
 Most people take the easy option for an exciting life -> they live their excitement through other people.
 
@@ -50,7 +50,7 @@ Old golfers do not win - they do not take the risky shot. They are hindered by e
 
 ### Do it, then fix it as you go.
 
-Don't make it perfect, do it, then fix it. Ask for criticism not praise. 
+Don't make it perfect, do it, then fix it. Ask for criticism not praise.
 
 Take Charge and accept responsibility
 

@@ -1,7 +1,7 @@
 ---
 title: "The D in David"
-date: "2016-06-19"
-categories: 
+date: 2016-06-19
+categories:
   - "youtube"
 coverImage: "2016-06-19-thedindavid.jpg"
 ---

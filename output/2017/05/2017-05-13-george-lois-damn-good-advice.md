@@ -1,13 +1,13 @@
 ---
 title: "George Lois - Damn Good Advice"
-date: "2017-05-13"
-categories: 
+date: 2017-05-13
+categories:
   - "books"
 ---
 
 George Lois a successful art director for the esquire magazine. His book Damn Good Advice (for people with talent) gives you advice about who you are as a person. Be proud of who you are and be smart and industrious.
 
-You can get the book on [Amazon](https://amzn.to/2KpK59W) (Affiliate Link) 
+You can get the book on [Amazon](https://amzn.to/2KpK59W) (Affiliate Link)
 
 Here are my favorite quotes from the book:
 
@@ -21,7 +21,7 @@ As soon as you start having ideas you also need something else: **work ethic**. 
 > Think long. Write Short.
 
 > Don't expect a creative idea to pop out of your computer.
-> 
+>
 > George Lois
 
 A computer is only a tool. You first need to grasp the big idea. Then you can start improving upon that idea by using a computer. This advice is very important even for the field of computer science and programmers.

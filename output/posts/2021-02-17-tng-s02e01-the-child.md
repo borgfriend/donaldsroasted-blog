@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E01 - The Child"
-date: "2021-02-17"
-tags: 
+date: 2021-02-17
+tags:
   - "exercise"
   - "star-trek"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Zig Ziglar - See you at the top"
-date: "2017-01-06"
-categories: 
+date: 2017-01-06
+categories:
   - "books"
 coverImage: "2018-05-24-matt-groenings-s-disenchantment.jpg"
 ---
@@ -37,7 +37,6 @@ Twelve steps to improve your self image:
 8. Choose your friends wisely and only of good character
 9. Make a list of your positive qualities on a card
 10. Make a victory list of past successes
-    
 11. Keep on shooting, it does not matter that you miss a couple of times
 12. Learn Public Speaking
 13. Look at yourself and start thinking "you are worthy, you deserve this"

@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E11 - Contagion"
-date: "2021-03-03"
-categories: 
+date: 2021-03-03
+categories:
   - "blog"
 ---
 

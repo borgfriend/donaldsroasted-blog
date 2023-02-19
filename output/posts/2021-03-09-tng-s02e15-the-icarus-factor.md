@@ -1,7 +1,7 @@
 ---
 title: "TNG S02E15 - The Icarus Factor"
-date: "2021-03-09"
-categories: 
+date: 2021-03-09
+categories:
   - "star-trek"
 ---
 

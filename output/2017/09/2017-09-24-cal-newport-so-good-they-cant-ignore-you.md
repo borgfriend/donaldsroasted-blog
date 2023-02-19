@@ -1,7 +1,7 @@
 ---
 title: "Cal Newport - So good they can’t ignore you"
-date: "2017-09-24"
-categories: 
+date: 2017-09-24
+categories:
   - "books"
 coverImage: "2017-09-24-so-good-they-cant-ignore-you.jpg"
 ---
@@ -9,13 +9,9 @@ coverImage: "2017-09-24-so-good-they-cant-ignore-you.jpg"
 Notes on the Book [So good they can't ignore you by Cal Newport](http://amzn.to/2hslLan "http://amzn.to/2hslLan")
 
 - **Rule 1:** Don’t follow your passion
-    
 - **Rule 2:** Be so good they can't ignore you (Importance of Skill)
-    
 - **Rule 3:** Turn down the Promotion (Importance of Control)
-    
 - **Rule 4:** Think Small, Act Big (Importance of Mission)
-    
 
 # Don’t follow your passion
 

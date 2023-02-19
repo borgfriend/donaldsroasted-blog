@@ -1,7 +1,7 @@
 ---
 title: "Austin Kleon - Show your work"
-date: "2018-05-17"
-categories: 
+date: 2018-05-17
+categories:
   - "books"
 ---
 
@@ -23,9 +23,9 @@ You need a scenius. This chapter basically reiterates the idea from the first bo
 
 ## Be an amateur
 
-Basically an _amateur_ is the enthusiast who pursues her work in the spirit of love. There is nothing bad about being an amateur we are all amateurs. Being an amateur makes it easier to take chances.
+Basically an *amateur* is the enthusiast who pursues her work in the spirit of love. There is nothing bad about being an amateur we are all amateurs. Being an amateur makes it easier to take chances.
 
-> In the beginners mind, there are many possibilities _Shunryu Suzuki_(Zen monk)
+> In the beginners mind, there are many possibilities *Shunryu Suzuki*(Zen monk)
 
 Be open for lifelong learning. Be obsessed by something and start talking out loud about it. You can learn from amateurs because they know less. As a professional you must embrace the uncertainty and the unknown.
 
@@ -47,7 +47,7 @@ Basically your process is your product.
 
 ## Take people behind the scenes
 
-Basically there is the _artwork_ the finished piece and the _art work_ the day to day stuff behind the scenes.
+Basically there is the *artwork* the finished piece and the *art work* the day to day stuff behind the scenes.
 
 Traditionally the artist is trained to keep the creative process to himself. The philosophy behind it is that the 'secret' enables you to be presented as this great artist. In reality this philosophy is simply a product of its time. Today you are much more capable to create a following by simply presenting your process as well as the final product.
 

@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E12 - Datalore"
-date: "2021-01-31"
-categories: 
+date: 2021-01-31
+categories:
   - "star-trek"
 ---
 

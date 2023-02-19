@@ -1,7 +1,7 @@
 ---
 title: "Why Beautiful Things make us Happy"
-date: "2018-10-24"
-categories: 
+date: 2018-10-24
+categories:
   - "youtube"
 ---
 

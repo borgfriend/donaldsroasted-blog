@@ -1,7 +1,7 @@
 ---
 title: "Rewatching S03E03 - The Survivors"
-date: "2021-05-31"
-categories: 
+date: 2021-05-31
+categories:
   - "star-trek"
 ---
 

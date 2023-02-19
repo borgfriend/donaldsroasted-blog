@@ -1,7 +1,7 @@
 ---
 title: "TNG S01E22: Skin of Evil"
-date: "2021-02-11"
-tags: 
+date: 2021-02-11
+tags:
   - "exercise"
   - "star-trek"
 ---
