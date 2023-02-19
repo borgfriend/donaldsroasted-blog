@@ -1,6 +1,6 @@
 ---
 title: "The Shorter Trek TNG Season 2: Watch list"
-date: "2021-04-28"
+date: 2021-04-28
 categories: 
   - "series"
 tags: 
