@@ -17,4 +17,5 @@ In the end there is one idea explored - Is the honor of a dead man more importan
 
 However, it does seem like a stretch the entire storyline... wouldn't it be better that the government exposes its traitors, prevent Duras from ever committing the same crime again? Or at least punish the house Duras? I mean what is going to happen when Duras runs for president? (stay tuned for the next Worf episode where he decides who is going to be president)
 
-Overall it is a great episode to look into Klingon culture and how a court systems can be abused to reinforce the existing power structures and go against the people they should serve.
+Overall, the episode provides an interesting exploration of Klingon culture and the intricacies of their legal system. It also touches on themes of loyalty, honor, and the consequences of betrayal.
+It also asks the question of how court systems can be abused to reinforce the existing power structures and go against the people they should serve.

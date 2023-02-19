@@ -1,5 +1,5 @@
 ---
-title: "Frost  Punk"
+title: "Frost Punk"
 date: "2021-06-08"
 categories: 
   - "games"
