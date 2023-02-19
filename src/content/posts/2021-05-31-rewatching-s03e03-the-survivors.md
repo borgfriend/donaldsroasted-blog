@@ -1,13 +1,16 @@
 ---
 title: "Rewatching S03E03 - The Survivors"
 date: 2021-05-31
-categories:
+categories: 
+  - "series"
+tags: 
   - "star-trek"
+  - "tng"
+  - "tng season 3"
+image: "/images/posts/series/star-trek-the-next-generation-3.jpg"
+authors: ["HappyNeal"]
 ---
-
-The enterprise responds to a distress call - when they arrive the entire planet is destroyed - with the exception of a sweet old couple and their house.
-
-In this episode Picard shines as he analyses the situation, and they find out the horrific truth what actually happened on this planet.
+The Enterprise receives a distress signal, but upon arrival, they discover that the entire planet has been destroyed except for an elderly couple and their house. The episode focuses on Picard's investigation into the situation and the horrific truth behind the planet's destruction.
 
 In the end Picard concludes he really is not in the position to make any judgement and just leaves the alien alone.
 
