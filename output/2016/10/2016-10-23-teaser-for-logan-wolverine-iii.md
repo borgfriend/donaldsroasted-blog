@@ -5,6 +5,7 @@ categories:
   - "movies"
 ---
 
+can you improve grammar and tone of the following text
 \[youtube https://www.youtube.com/watch?v=gbug3zTm3Ws\]
 
 Logan is going to be the next Wolverine movie. The trailer tries to distance itself from the "X-Men"-Franchise, as well as from the Wolverine Franchise, thus originally the movie was called "Wolverine 3".

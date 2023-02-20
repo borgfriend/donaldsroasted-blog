@@ -6,6 +6,7 @@ tags:
   - "star-trek"
 ---
 
+can you improve grammar and tone of the following text
 **In your opinion, what are the benefits of adhering to canon? What creative potential exists in jumping off from it? Where has *Star Trek* (or other similar franchises) done it well or poorly?**
 
 Canon is always a difficult subject. On the one hand, canon is a great starting point for stories, as locations, events in the timeline characters are all already established and stories will be told by the world that has been created before, and you do not have to reestablish the rules of the universe.  

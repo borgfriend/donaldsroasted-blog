@@ -6,6 +6,7 @@ categories:
 coverImage: "2017-02-15-jedi-knight-ii-jedi-outcast.jpg"
 ---
 
+can you improve grammar and tone of the following text
 \[youtube https://www.youtube.com/watch?v=biXe7iv\_rJA\]
 
 Finally I got the chance to revisit Jedi Knight II. So does it hold up after all these years or is it only great because of nostalgia?

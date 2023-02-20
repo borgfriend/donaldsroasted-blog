@@ -1,9 +1,9 @@
 ---
 title: "TNG S01E13 - Angel One"
 date: 2021-02-01
-categories: 
+categories:
   - "series"
-tags: 
+tags:
   - "star-trek"
   - "tng"
   - "tng season 1"
@@ -11,6 +11,7 @@ image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
 authors: ["HappyNeal"]
 ---
 
+can you improve grammar and tone of the following text
 So we are on the opposite planet today. Women are the dominant gender, smart make decisions and Men are stupid and objectified. But we have to save a couple of crew members that went missing 7 years ago. Star Trek bureaucracy at its finest. Like did the paperwork get lost?
 
 Also, a virus is on the ship and everybody will die of a pandemic. But that storyline is so bonkers bland and boring it's hardly worth mentioning.

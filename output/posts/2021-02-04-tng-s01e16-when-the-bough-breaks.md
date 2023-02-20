@@ -1,9 +1,9 @@
 ---
 title: "TNG S01E16 - When the Bough Breaks"
 date: 2021-02-04
-categories: 
+categories:
   - "series"
-tags: 
+tags:
   - "star-trek"
   - "tng"
   - "tng season 1"
@@ -11,6 +11,7 @@ image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
 authors: ["HappyNeal"]
 ---
 
+can you improve grammar and tone of the following text
 The episodes are getting better. However this episode is basically “We do not sell children” – “Ok we take them” – “Here is a potion for radiation poisoning” – ” Ok, you can have them back”
 
 This episode took the moral stand that “infertile people” that want to have children by any means are totally immoral. – However in reality there is a very simple solution to this – Adoption. – Simply repeating over and over again that your children are the most important thing and you never will give them up is not really deep. It would have been awesome if the federation could have worked out an adoption program or some sort with this planet.

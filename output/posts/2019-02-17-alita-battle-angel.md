@@ -3,6 +3,7 @@ title: "Alita - Battle Angel"
 date: 2019-02-17
 ---
 
+can you improve grammar and tone of the following text
 Alita is based on a Japanese Manga and was in production for 16 years. James Cameron was involved.
 
 Story wise it had a lot of great ideas

@@ -1,9 +1,9 @@
 ---
 title: "TNG S01E02 - The Naked Now"
 date: 2021-01-07
-categories: 
+categories:
   - "series"
-tags: 
+tags:
   - "star-trek"
   - "tng"
   - "tng season 1"
@@ -11,6 +11,7 @@ image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
 authors: ["HappyNeal"]
 ---
 
+can you improve grammar and tone of the following text
 TNG has to establish itself that it continues the adventures of Kirk. Thus the episode is a callback episode where everyone on the Enterprise was infected by a molecule that made them act drunk and horny.
 
 Wesley is fleshed out a little more and he demonstrates impressive engineering skills by building a personal tractor-beam, and a voice simulator device.

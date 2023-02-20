@@ -5,6 +5,8 @@ categories:
   - "blog"
 ---
 
+can you improve grammar and tone of the following text
+
 > If you don’t have time to clean up, you don’t have time to cook
 >
 > Seth Godin ([https://seths.blog/2018/12/if-you-dont-have-time-to-clean-up-you-dont-have-time-to-cook/](https://seths.blog/2018/12/if-you-dont-have-time-to-clean-up-you-dont-have-time-to-cook/))

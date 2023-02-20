@@ -5,6 +5,7 @@ categories:
   - "games"
 ---
 
+can you improve grammar and tone of the following text
 https://www.youtube.com/watch?v=qqEpSOFDXGA
 
 City simulators are usually not my thing. They are endless games without any real end goal. - Frost Punk changes the concept. You have a generator and a couple of survivors. Your task is simple - survive.

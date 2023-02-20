@@ -8,6 +8,7 @@ tags:
 coverImage: "2016-06-13-pixar-piper-trailer.jpg"
 ---
 
+can you improve grammar and tone of the following text
 Adam Grant takes a look at how being a giver or a taker will effect your career and gives recommendations what to do so you can achieve greater success in life.
 
 You can get the book on [Amazon](https://amzn.to/2MQNvcA) _(Affiliate Link)_

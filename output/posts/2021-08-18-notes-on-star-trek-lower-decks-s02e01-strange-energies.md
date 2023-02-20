@@ -6,6 +6,7 @@ tags:
   - "star-trek"
 ---
 
+can you improve grammar and tone of the following text
 Lower Decks Season 1, was unexpectedly good. I was really looking forward to see what will happen next, how Boimler is doing on the Titan, how Mariner will continue to rebel against the status quo. How Tendi and Rutherford will process the events of the Season 1 finale.
 
 The episode starts off with a great Holodeck action piece, filled with tons of great callbacks to the original series. After that the actual episode was sadly not the best.

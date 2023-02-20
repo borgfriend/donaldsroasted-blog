@@ -3,6 +3,7 @@ title: "Thoughts on New Marvel Logo 2016"
 date: 2016-08-26
 ---
 
+can you improve grammar and tone of the following text
 ![](images/maxresdefault.jpg)
 
 In the last Dr. Strange Trailer, Marvel revealed to the wide public their new Logo. While a lot of design effort was put into the new logo something was just not feeling write It took me a long time to figure out what was really bothering me about the logo.

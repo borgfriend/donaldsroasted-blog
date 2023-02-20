@@ -6,6 +6,7 @@ categories:
 coverImage: "2017-02-15-the-lego-batman-movie.jpg"
 ---
 
+can you improve grammar and tone of the following text
 \[youtube https://www.youtube.com/watch?v=rGQUKzSDhrg\]
 
 Nobody expected great things from "The Lego Batman". And what did we get? Probably the best version of the caped crusader since the "Dark Knight".

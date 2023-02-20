@@ -6,6 +6,7 @@ categories:
 coverImage: "2015-12-25-renegadex.png"
 ---
 
+can you improve grammar and tone of the following text
 \[youtube https://www.youtube.com/watch?v=jNpPQN758uc\]
 
 Renegade X is a free small 1-2 hours single player game showing off some of the features of the UDK.

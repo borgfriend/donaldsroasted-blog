@@ -5,6 +5,7 @@ categories:
   - "games"
 ---
 
+can you improve grammar and tone of the following text
 \[youtube https://www.youtube.com/watch?v=YZu0aYR5k\_Y\]
 
 Kyle Kartan keeps his force Powers after the Events of Jedi Knight II and what is the best way to teach new Students into the ways of the force? give them a light-saber and let them slaughter a lot of people. So well maybe in the educational department the game is slightly laking...

@@ -6,6 +6,7 @@ categories:
 coverImage: "2015-02-14-aperture-science-investment-opportunity.jpg"
 ---
 
+can you improve grammar and tone of the following text
 Aperture Science Technologies is a leading tech company. You definitely should invest in their breakout technologies. They were created with Science. Are top of the line and much better than anything that Black Mesa has to offer.
 
 # Product line

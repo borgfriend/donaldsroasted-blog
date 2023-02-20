@@ -7,6 +7,7 @@ categories:
 coverImage: "2015-12-25-magicka.jpg"
 ---
 
+can you improve grammar and tone of the following text
 The classic retelling of how software is being developed.
 
 \[youtube https://www.youtube.com/watch?v=OE5fGjJ3Myg\]

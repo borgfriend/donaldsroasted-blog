@@ -8,6 +8,7 @@ tags:
   - "steam"
 ---
 
+can you improve grammar and tone of the following text
 Bioshock Remastered - Updated Graphics, but same old stupid multiple unskippable 2k Intro Video. Great…  
 To avoid waiting to get the game going. You can add the flag “`-nointro`” to the launch options.
 

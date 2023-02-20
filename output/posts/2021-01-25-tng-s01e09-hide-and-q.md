@@ -1,9 +1,9 @@
 ---
 title: "TNG S01E09 - Hide and Q"
 date: 2021-01-25
-categories: 
+categories:
   - "series"
-tags: 
+tags:
   - "star-trek"
   - "tng"
   - "tng season 1"
@@ -11,6 +11,7 @@ image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
 authors: ["HappyNeal"]
 ---
 
+can you improve grammar and tone of the following text
 Phenomenal Cosmic powers and a weak preachy episode. This episode could have had a lot going on for it. Q comes to a visit and gives Riker a taste of his powers, he is given the power of Q.
 
 The trial of Q is "Power tends to corrupt, and absolute power corrupts absolutely. Great men are almost always bad men..." - But in this version of the future humans are apparently boring as hell - When Riker is given these powers he does nothing with them.

@@ -5,6 +5,7 @@ categories:
   - "books"
 ---
 
+can you improve grammar and tone of the following text
 The 10x rule is a disciple - anyone can learn it and transform their lives. You do not need any special education, gift, or good fortune. It will ensure your success regardless of your situation. If you use the rule life will get easier and you will dream at higher levels than you thought were possible.  
 Now that reads like a bad get-rich-quick scheme. Let's see if there is anything useful in this book.
 

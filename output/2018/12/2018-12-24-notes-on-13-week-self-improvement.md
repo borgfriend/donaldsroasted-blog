@@ -5,6 +5,8 @@ categories:
   - "books"
 ---
 
+can you improve grammar and tone of the following text
+
 ## 6 Principles
 
 #### 1\. Roadmap for Life

@@ -11,6 +11,7 @@ tags:
 coverImage: "2016-06-06-bertie.jpg"
 ---
 
+can you improve grammar and tone of the following text
 https://www.youtube.com/watch?v=5K4zjNtQ3y8
 
 What can you really do with three simple shapes?

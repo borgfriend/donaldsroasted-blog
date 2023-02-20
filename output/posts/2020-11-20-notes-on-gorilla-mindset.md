@@ -10,6 +10,8 @@ tags:
   - "summary"
 ---
 
+can you improve grammar and tone of the following text
+
 ## **tl;dr:**
 
 Take responsibility and control of your life. With hard work and a vision, you can achieve everything. You have the tools and the permission to live on your own terms. It is ok to live in danger. Don’t wake up early for a life you do not want to live.

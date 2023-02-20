@@ -8,6 +8,7 @@ tags:
   - "voyager"
 ---
 
+can you improve grammar and tone of the following text
 Today we are going to look at the beginning of Star Trek: Voyager. Voyager, unlike the series before it flung the starship to the other end of the galaxy and could not rely on Starfleet to help them out.
 
 ## Living with limited Resources

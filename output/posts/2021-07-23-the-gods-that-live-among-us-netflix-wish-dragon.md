@@ -5,6 +5,7 @@ categories:
   - "movies"
 ---
 
+can you improve grammar and tone of the following text
 The Wish Dragon is a cute little tale of a boy wanting to get his friend back. It's the classical Aladdin story told in a chinese setting. Overall a cute story.
 
 You can watch it here: https://www.netflix.com/title/81153694

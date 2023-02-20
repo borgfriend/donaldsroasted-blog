@@ -1,9 +1,9 @@
 ---
 title: "TNG S01E12 - Datalore"
 date: 2021-01-31
-categories: 
+categories:
   - "series"
-tags: 
+tags:
   - "star-trek"
   - "tng"
   - "tng season 1"
@@ -11,6 +11,7 @@ image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
 authors: ["HappyNeal"]
 ---
 
+can you improve grammar and tone of the following text
 The first Data-centric episode and it's the first episode where everything fits perfectly. It looks at the mystery of data's origin, it has discussions about androids, it has a silly action-packed fistfight, good dialog. And a brilliant Data, and Lore. It also makes Data more Datalike, going into detail about how he speaks and his range of facial expressions, which is starkly contrasted with the range of facial expressions of Lore.
 
 - Lore, Datas Evil brother is introduced

@@ -5,6 +5,7 @@ categories:
   - "games"
 ---
 
+can you improve grammar and tone of the following text
 Originally I only wanted to play an old SNES Game on my couch, I could not get the thing running with my Smart TV. I looked into how to emulate the game on the TV and stumbled upon one of the greatest and most interesting Retro gaming projects ever.
 
 There is a Plugin for Media Center Application Kodi called the "Internet Archive Gaming Launcher" (IAGL) . The Launcher solves two major problems with retro console gaming.

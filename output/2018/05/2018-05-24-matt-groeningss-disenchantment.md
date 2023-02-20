@@ -6,6 +6,7 @@ categories:
 coverImage: "2018-05-24-matt-groenings-s-disenchantment.jpg"
 ---
 
+can you improve grammar and tone of the following text
 Yesterday it has been revealed that the new epic fantasy series Matt Groening has been working on is called 'Disenchantment' will feature 10 episodes and start airing on Aug. 17. The same Animation Studio 'ULULU Company' that animated Futurama will animate this new series.
 
 Basically it looks interesting and something to look forward to in August.

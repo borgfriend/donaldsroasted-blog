@@ -6,6 +6,7 @@ categories:
   - "blog"
 ---
 
+can you improve grammar and tone of the following text
 The "girl with a ballon" is a mural created by Banksy. It is a girl whose heart shaped ballon is carried away by the wind. In essence the girl has lost something beautiful. It is just within her grasp, there is hope she still can catch it.
 
 Then a print of the mural was sold at an auction. The buyer wanted to buy a beautiful print. However in the moment the buyer could have held the print in his hand it was shredded. In essence the buyer has become the girl in the image he lost something beautiful.

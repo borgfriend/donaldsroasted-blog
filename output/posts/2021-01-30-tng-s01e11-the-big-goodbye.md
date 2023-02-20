@@ -1,9 +1,9 @@
 ---
 title: "TNG S01E11 - The Big Goodbye"
 date: 2021-01-30
-categories: 
+categories:
   - "series"
-tags: 
+tags:
   - "star-trek"
   - "tng"
   - "tng season 1"
@@ -11,6 +11,7 @@ image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
 authors: ["HappyNeal"]
 ---
 
+can you improve grammar and tone of the following text
 This is a monumental episode, it is the first full holodeck episode - and it has all the core tropes:
 
 - Safety Protocols are disabled and somebody almost dies

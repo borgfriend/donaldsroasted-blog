@@ -5,6 +5,7 @@ categories:
   - "books"
 ---
 
+can you improve grammar and tone of the following text
 George Lois a successful art director for the esquire magazine. His book Damn Good Advice (for people with talent) gives you advice about who you are as a person. Be proud of who you are and be smart and industrious.
 
 You can get the book on [Amazon](https://amzn.to/2KpK59W) (Affiliate Link)

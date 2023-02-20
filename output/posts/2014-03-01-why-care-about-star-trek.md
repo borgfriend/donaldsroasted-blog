@@ -10,6 +10,7 @@ tags:
 coverImage: "2016-07-16-salt-and-pepper.jpg"
 ---
 
+can you improve grammar and tone of the following text
 Star Trek - no matter if you liked the show or not. It has had a profound influence on your life. Many of the ideas presented in Star Trek were absolutely unthinkable at that time. So even if you have never seen Star Trek or don’t really like Star Trek, it would be nice if you would bear with me.
 
 Star Trek was created in 1967 by Gene Rodenberry, he envisioned a united world, where everybody was working together for a better future. There was no separation based on nationality or race. When looking back at that same time period you will notice that at the same time the African-American Civil Rights Movement was taking place in America. The stories for the show were written by visionary science fiction authors, like Harlan Ellison. Sadly the stories were "adapted" for television, in essence, "dumbed down". The stories were original and unique and famously featured the first inter-racial kiss on television. However, at the time the show struggled to find viewers, and the show was canceled after 3 seasons.

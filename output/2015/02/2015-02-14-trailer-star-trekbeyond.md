@@ -6,6 +6,7 @@ categories:
 coverImage: "2015-02-14-trailer-startrek-beyond.jpg"
 ---
 
+can you improve grammar and tone of the following text
 https://www.youtube.com/embed/XRVD32rnzOw
 
 The next Star Trek, presented by Fast and the Furious Crew. By the looks of the Trailer we Star Trek will return to its glory days of "The Next Generation" the Captain is going to face a difficult issue that takes a profound look on humanity and how far we have come.

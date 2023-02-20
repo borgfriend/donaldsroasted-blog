@@ -1,9 +1,9 @@
 ---
 title: "TNG S01E01 - Encounter at Farpoint"
 date: 2021-01-05
-categories: 
+categories:
   - "series"
-tags: 
+tags:
   - "star-trek"
   - "tng"
   - "tng season 1"
@@ -11,6 +11,7 @@ image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
 authors: ["HappyNeal"]
 ---
 
+can you improve grammar and tone of the following text
 The first Episode of TNG is a little wierd... they did not know yet what to do.
 
 One thing that stands out is, that they first presented the new Enterprise as a technical marvel a very powerful ship and then immediately faced it against Q - one of the most powerful beings in the universe. Smartly presented by being first technical superior (can match/exceed Warp speeds) and later by killing and reviving a crew member.

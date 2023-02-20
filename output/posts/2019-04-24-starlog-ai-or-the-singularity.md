@@ -6,6 +6,7 @@ tags:
   - "star-trek"
 ---
 
+can you improve grammar and tone of the following text
 **Where do you see Artificial Intelligence going? Will it be Data, The Doctor, or something new? Do we need to fear it, embrace it or something in between?**
 
 There is a difference between specialized AI, like The Doctor, and universal AI.

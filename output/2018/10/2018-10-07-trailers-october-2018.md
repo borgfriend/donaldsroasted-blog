@@ -6,6 +6,8 @@ tags:
 coverImage: "2018-10-06-trailersoctober.jpg"
 ---
 
+can you improve grammar and tone of the following text
+
 # Spiderman - Into the Spiderverse
 
 Another attempt at Spiderman? Well yes but this time as a very unique looking Animation movie and SpiderPig.

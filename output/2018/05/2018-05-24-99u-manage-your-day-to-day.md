@@ -6,6 +6,7 @@ categories:
 coverImage: "2018-05-24-99u-manage-your-day-to-day.jpg"
 ---
 
+can you improve grammar and tone of the following text
 [99u](https://99u.adobe.com/ "https://99u.adobe.com/") Manage your day-to-day: build your routine, find your focus & sharpen your creative mind The book is a collection of various articles.
 
 # Introduction

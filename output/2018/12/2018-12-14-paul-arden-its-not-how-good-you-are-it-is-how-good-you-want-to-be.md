@@ -7,6 +7,7 @@ tags:
   - "book"
 ---
 
+can you improve grammar and tone of the following text
 Probably one of the best books ever created.
 
 > "All successful people do not poses any greater education or skill - they wanted to be rich and powerful they had a vision they knew what and when they wanted to be - they had a **goal**."

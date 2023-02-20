@@ -5,6 +5,7 @@ categories:
   - "games"
 ---
 
+can you improve grammar and tone of the following text
 https://www.youtube.com/watch?v=Hp7tNAH9Ox0&vl=en
 
 I really like the games from 11bit studios... Moonlighter is a fun rougelike game where you your dayjob is to sell stuff while during the night you loot dungeons.

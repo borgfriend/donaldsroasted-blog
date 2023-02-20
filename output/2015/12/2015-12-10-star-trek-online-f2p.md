@@ -6,6 +6,7 @@ categories:
 coverImage: "2015-12-25-startrekonline.jpg"
 ---
 
+can you improve grammar and tone of the following text
 \[youtube https://www.youtube.com/watch?v=gqed10FOmL4\]
 
 A MMORPG for the Star Trek fans. It lets you visit and explore the entire Star Trek Universe. However it is also suited for people that haven't heard anything about star trek and provides extensive back stories and information about the different alien races, the history of the universe etc.

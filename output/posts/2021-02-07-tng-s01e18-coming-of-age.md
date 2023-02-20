@@ -1,9 +1,9 @@
 ---
 title: "TNG S01E18: Coming of Age"
 date: 2021-02-07
-categories: 
+categories:
   - "series"
-tags: 
+tags:
   - "star-trek"
   - "tng"
   - "tng season 1"
@@ -11,6 +11,7 @@ image: "/images/posts/series/star-trek-the-next-generation-1.jpg"
 authors: ["HappyNeal"]
 ---
 
+can you improve grammar and tone of the following text
 This episode takes a look at how to deal with success and failure.
 
 Picard is being tested if he is a loyal officer - and while he passes the test, and he would get a promotion to an admiral. He decides to refuse the offer, he does not want to get involved with the politics of the federation. But something sinister is going on...

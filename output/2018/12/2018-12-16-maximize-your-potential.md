@@ -3,6 +3,8 @@ title: "Maximize your potential"
 date: 2018-12-16
 ---
 
+can you improve grammar and tone of the following text
+
 ## Cultivating your craft before your passion
 
 What you do does not matter - the traits that are associated with it which make you happy. Skill precedes passion.

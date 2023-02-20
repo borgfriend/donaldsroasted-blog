@@ -5,6 +5,7 @@ categories:
   - "movies"
 ---
 
+can you improve grammar and tone of the following text
 I finally got around to watch Bumblebee and I must say I am impressed. It actually had a fun story. The only real flaw was actually that they connected it to the existing Transformers movies (which really did not make any sense at all).
 
 https://www.youtube.com/watch?v=lcwmDAYt22k

@@ -5,6 +5,7 @@ categories:
   - "books"
 ---
 
+can you improve grammar and tone of the following text
 \[youtube https://www.youtube.com/watch?v=Utn4bX31PZY\]
 
 10 ways to share your creativity and get discovered.
