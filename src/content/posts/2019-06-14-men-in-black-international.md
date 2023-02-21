@@ -5,10 +5,7 @@ categories:
   - "movies"
 ---
 
-can you improve grammar and tone of the following text
 https://www.youtube.com/watch?v=BV-WEb2oxLk
-
-Trailer Men in Black
 
 The first Men in Black created a very interesting world. Sadly the producers only create sequels with the same base plot.
 
