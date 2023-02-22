@@ -6,7 +6,6 @@ tags:
   - "star-trek"
 ---
 
-can you improve grammar and tone of the following text
 Let's take a look at the first episode of Star Trek: Discovery - "A Vulcan Hello" and the issues the pilot episode addresses.
 
 ## Psychological Traumatized Indiviudals

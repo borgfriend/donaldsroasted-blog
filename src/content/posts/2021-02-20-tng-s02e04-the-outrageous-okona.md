@@ -11,7 +11,6 @@ image: "/images/posts/series/star-trek-the-next-generation-2.jpg"
 authors: ["HappyNeal"]
 ---
 
-can you improve grammar and tone of the following text
 Star Wars meets Star trek. We get to meet Okona, a rogue like character, flying around with an old ship. And what a guy, he manages to seduce 3 women in like half a day.
 
 Data in this episode explores 'Humor' - that was probably not the best at the time, and it has not aged very well.

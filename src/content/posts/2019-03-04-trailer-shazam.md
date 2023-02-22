@@ -5,7 +5,6 @@ categories:
   - "trailers"
 ---
 
-can you improve grammar and tone of the following text
 https://www.youtube.com/watch?v=5sagxviYV7A
 
 D.C. is desperately trying to make a good superhero movie. They managed to create a very compelling Trailer for Shazam! A kid that is a superhero...

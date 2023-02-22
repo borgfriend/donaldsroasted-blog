@@ -4,10 +4,7 @@ date: 2015-12-13
 categories:
   - "games"
   - "youtube"
-
 ---
-
-can you improve grammar and tone of the following text
 
 - [Official Site](http://www.thinkwithportals.com/ "http://www.thinkwithportals.com/")
 - [Soundtrack and Ringtones](http://www.thinkwithportals.com/music.php "http://www.thinkwithportals.com/music.php")
