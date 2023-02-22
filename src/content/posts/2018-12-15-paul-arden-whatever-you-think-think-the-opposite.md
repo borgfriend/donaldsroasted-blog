@@ -5,7 +5,6 @@ categories:
   - "books"
 ---
 
-can you improve grammar and tone of the following text
 This book explains the benefit of making the wrong decision.
 
 ## Risk is the Security of Life

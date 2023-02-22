@@ -6,7 +6,6 @@ categories:
 coverImage: "2017-09-24-so-good-they-cant-ignore-you.jpg"
 ---
 
-can you improve grammar and tone of the following text
 Notes on the Book [So good they can't ignore you by Cal Newport](http://amzn.to/2hslLan "http://amzn.to/2hslLan")
 
 - **Rule 1:** Don’t follow your passion
