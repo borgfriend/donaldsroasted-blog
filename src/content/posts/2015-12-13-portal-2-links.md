@@ -4,7 +4,7 @@ date: 2015-12-13
 categories:
   - "games"
   - "youtube"
-coverImage: "2015-02-14-aperture-science-investment-opportunity.jpg"
+
 ---
 
 can you improve grammar and tone of the following text

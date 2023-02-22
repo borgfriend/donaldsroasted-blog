@@ -5,8 +5,7 @@ categories:
   - "books"
 ---
 
-can you improve grammar and tone of the following text
-I must say I had some difficulties reading this book. The book is a collection of many different very interesting stories of Jordan Petersons life. In a way it reads like a mini autobiography and the lessons Peterson learns/teaches from them. - It is just not the style of book that I like.
+I must admit that I encountered some difficulties while reading this book. Although it comprises many interesting stories about Jordan Peterson's life, it reads like a mini-autobiography with the lessons he learned and teaches from his experiences. This style of writing is not what I typically enjoy.
 
 Now here and then there are fascinating stories of interpretations of bible texts and core moments you find in movies.
 

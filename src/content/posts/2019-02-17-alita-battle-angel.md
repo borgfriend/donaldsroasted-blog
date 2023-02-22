@@ -3,7 +3,6 @@ title: "Alita - Battle Angel"
 date: 2019-02-17
 ---
 
-can you improve grammar and tone of the following text
 Alita is based on a Japanese Manga and was in production for 16 years. James Cameron was involved.
 
 Story wise it had a lot of great ideas
@@ -21,4 +20,4 @@ Sadly this was also the downfall of the movie. Many of the plot lines were poorl
 
 The movie feels like that it is the result of many compromises and many people having different ideas on what the movie should be about. It did not help that the source material is clearly extremely violent mature content, while the movie tones everything down to PG-13 levels. The characters presented are boring as clean slate good guys and would have been much more interesting to explore the darker sides of the characters. As such we only get hints and suggestions.
 
-In the end atila would probably work much better as a series. At the end of the movie it is hinted at that the story of Alita will continue. Hopefully this is going to be the case as the movie had a lot of potential.
+In the end Atila would probably work much better as a series. At the end of the movie it is hinted at that the story of Alita will continue. Hopefully this is going to be the case as the movie had a lot of potential.

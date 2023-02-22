@@ -3,8 +3,6 @@ title: "Hype for Movies 2019"
 date: 2018-12-02
 ---
 
-can you improve grammar and tone of the following text
-
 ## December 20th - Bumblebee
 
 https://www.youtube.com/watch?v=fAIX12F6958

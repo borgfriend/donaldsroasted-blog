@@ -11,9 +11,9 @@ can you improve grammar and tone of the following text
 
 Nobody expected great things from "The Lego Batman". And what did we get? Probably the best version of the caped crusader since the "Dark Knight".
 
-There is nothing that can really prepare you for the awesomeness of Lego Batman. It includes all of batman villains, the justice league, and so much more.
+It's hard to prepare for the awesomeness of Lego Batman. The movie includes all of Batman's villains, the Justice League, and so much more.
 
-If you love batman, you will love this movie. If you want your inner child squeal with delight - this is the movie for you.
+If you're a fan of Batman, this movie is a must-see. And if you want to let your inner child squeal with delight, "The Lego Batman" is the perfect movie for you.
 
 Just remember:
 

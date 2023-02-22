@@ -6,7 +6,6 @@ categories:
   - "gaming"
 tags:
   - "portal"
-image: "/images/posts/015-02-14-aperture-science-investment-opportunity.jpg"
 authors: ["HappyNeal"]
 ---
 

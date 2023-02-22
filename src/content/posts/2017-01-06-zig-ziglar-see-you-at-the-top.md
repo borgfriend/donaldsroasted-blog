@@ -3,10 +3,9 @@ title: "Zig Ziglar - See you at the top"
 date: 2017-01-06
 categories:
   - "books"
-coverImage: "2018-05-24-matt-groenings-s-disenchantment.jpg"
+
 ---
 
-can you improve grammar and tone of the following text
 Overall the book is a collection of short stories that emphasize the point of the 7 Steps to greatness strategy. The book however fails very hard on topics of drugs and spirituality. It's so over the top wrong, that the book cannot be recommended without a warning.
 
 The strategy however sounds quite good.
